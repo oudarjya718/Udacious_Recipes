@@ -1,5 +1,5 @@
 ![]()
-<img src="images/udacious recipe.png"
+<img src="images/udacious recipe.jpg"
      alt="Website demo" />
      
 # Udacious Recipes
