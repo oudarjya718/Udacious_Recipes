@@ -1,7 +1,9 @@
+![]()
+<img src="images/udacious recipe.png"
+     alt="Website demo" />
+     
 # Udacious Recipes
 This repository contains the showcase project developed for the Secure and Private AI Scholarship Challenge. For more details, please visit this site
-
-![](udacious recipe.png)
 
 ## The Team
 | Name | Slack Handle |
@@ -35,13 +37,14 @@ Furthermore, Ingredient Name, Quantity & Unit extracted too! Everything Neat & C
 
 ## Current Proceedings Include 
 - Data Collection of Recipes from various sources 
-- Data Preprocessing 
-Proceedings in progress
-Build and train the model
-Distributed and encrypted training of the models
-Deployment
-Demo app
-Project replication installation and guidelines
+- Data Preprocessing
+
+### Proceedings in progress
+- Build and train the model
+- Distributed and encrypted training of the models
+- Deployment
+- Demo app
+- Project replication installation and guidelines
 
 ## Requirements
 * Python 3.7 or above
