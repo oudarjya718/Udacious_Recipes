@@ -17,7 +17,8 @@ This repository contains the showcase project developed for the Secure and Priva
 
 ## Here's What Udacious Recipe Does For You!
 
-**Simply enter the url you want to generate a recipe from in our [Recipes Webpage](https://evigian.github.io/udacious-recipes/) & below is what Udacious Recipe will do for you:
+**Simply enter the url you want to generate a recipe from in our <a href="https://evigian.github.io/udacious-recipes/" target="_blank">Recipes Webpage</a>
+[Recipes Webpage](https://evigian.github.io/udacious-recipes/) & below is what Udacious Recipe will do for you:
 It will automatically grab all the text on that webpage, feed it into our Intelligent Recipe Bot, and Drill out all 
 the recipe relevant information only as an output with all clutter removed. You will be presented with Recipe Name, Directions, Ingredients.
 Furthermore, Ingredient Name, Quantity & Unit extracted too! Everything Neat & Crisp!**
